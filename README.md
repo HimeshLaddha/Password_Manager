@@ -1,8 +1,16 @@
-# React + Vite
+#🔐 PassOp - Secure Password Manager
+- PassOp is a simple yet secure password manager that allows users to store and manage their credentials efficiently. Built using React, Tailwind CSS, Express.js, Node.js, and MongoDB, PassOp ensures encrypted storage and an intuitive user experience without requiring authentication.
+  
+#🚀 Features
+- ✅ Secure Password Storage – Encrypts passwords before storing them in MongoDB.
+- ✅ Intuitive UI – A responsive and modern UI built with React & Tailwind CSS.
+- ✅ Clipboard Copy – One-click copy feature for quick access.
+- ✅ CRUD Operations – Easily add, update, and delete saved credentials.
+- ✅ Search & Filter – Quickly find stored credentials.
+- ✅ No Authentication Required – Simple access without login/signup.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🛠️ Tech Stack
+- Frontend: React.js, Tailwind CSS
+- Backend: Express.js, Node.js
+- Database: MongoDB
+- Security: Bcrypt password hashing
